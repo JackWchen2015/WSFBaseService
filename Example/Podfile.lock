@@ -1,0 +1,16 @@
+PODS:
+  - WSFBaseService (0.1.0)
+
+DEPENDENCIES:
+  - WSFBaseService (from `../`)
+
+EXTERNAL SOURCES:
+  WSFBaseService:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WSFBaseService: 0f9157940da4768ead63d86835d97242a419750d
+
+PODFILE CHECKSUM: 6c5b3b86d32c0b808ba4740d6bbd7f090263a7e9
+
+COCOAPODS: 1.9.3

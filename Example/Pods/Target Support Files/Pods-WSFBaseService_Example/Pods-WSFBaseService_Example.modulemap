@@ -1,0 +1,6 @@
+framework module Pods_WSFBaseService_Example {
+  umbrella header "Pods-WSFBaseService_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

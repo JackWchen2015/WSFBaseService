@@ -1,0 +1,6 @@
+framework module WSFBaseService {
+  umbrella header "WSFBaseService-umbrella.h"
+
+  export *
+  module * { export * }
+}
