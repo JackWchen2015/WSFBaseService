@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WSFBaseService'
-  s.version          = '0.1.0'
+  s.version="0.0.1"
   s.summary          = 'A short description of WSFBaseService.'
 
 # This description is used to generate tags and improve search results.
@@ -33,7 +33,7 @@ TODO: Add long description of the pod here.
   s.source_files = 'WSFBaseService/Classes/**/*'
   
    s.resource_bundles = {
-     'WSFBaseService' => ['WSFBaseService/Assets/*.png']
+     'WSFBaseService' => ['WSFBaseService/Assets/WSFBaseService.xcassets']
    }
 
   s.public_header_files = 'WSFBaseService/Classes//**/*.h'
